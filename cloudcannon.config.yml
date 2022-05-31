@@ -1,2 +1,3 @@
 _input:
-  author_signature: image
+  author_signature: 
+    type: image
